@@ -9,11 +9,11 @@ I am a passionate and self-motivated aspiring full-stack developer from Akola,Ma
 
 - 🔭 I’m currently exploring and learning new things.
 - 🌱 I’m currently learning MERN Stack Dev
-- 👨‍💻 My portfolio
-- 💬 Ask me about ...
-- 📫 How to reach me: ...[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kalpande-4165341b6/)
-- 
-- 👀 My github repositories <a>Click</a>
+- 🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
+- 👨‍💻 My portfolio  [Click here](https://www.linkedin.com/in/kunal-kalpande-4165341b6/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kunal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kalpande-4165341b6/)
+- 👀 My github repositories [Click here](https://github.com/kalpandekunal?tab=repositories)
+- 📄 Know about my skills [Resume](https://drive.google.com/file/d/1OAI9LRpffBOFtzYlJpb6jkAFv1zvh0sA/view?usp=share_link)
 
 
 
@@ -26,4 +26,12 @@ I am a passionate and self-motivated aspiring full-stack developer from Akola,Ma
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
 
-<img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png"/>
+<img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kalpandekunal&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpandekunal&layout=compact"/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalpandekunal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
