@@ -1,4 +1,4 @@
-### Hi there, I'm Kunal Kalpande 👋
+<!-- ### Hi there, I'm Kunal Kalpande 👋 -->
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Full-stack+web+developer;Curious+to+learn+new+things+!) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Full-stack+web+developer;Curious+to+learn+new+things)](https://git.io/typing-svg)
 
