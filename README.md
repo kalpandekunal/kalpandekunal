@@ -12,7 +12,7 @@ I am a passionate and self-motivated aspiring full-stack developer from Akola,Ma
 - 🔭 I’m currently exploring and learning new things.
 - 🌱 I’m currently learning MERN Stack Dev
 - 🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
-- 👨‍💻 All of my projects are available at [https://kalpandekunal.github.io/](https://avinashkalmegh.github.io/)
+- 👨‍💻 All of my projects are available at [https://avinashkalmegh.github.io/](https://avinashkalmegh.github.io/)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kunal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kalpande-4165341b6/)
 - 👀 My github repositories [Click here](https://github.com/kalpandekunal?tab=repositories)
 - 📄 Know about my skills [Resume](https://drive.google.com/file/d/1OAI9LRpffBOFtzYlJpb6jkAFv1zvh0sA/view?usp=share_link)
