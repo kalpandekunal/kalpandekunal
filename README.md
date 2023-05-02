@@ -39,8 +39,8 @@ I am a passionate and self-motivated aspiring full-stack developer from Akola,Ma
 <br/>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalpandekunal&theme=react-dark) -->
-[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://kalpandekunal.github.io/)
-
+<!-- [![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://kalpandekunal.github.io/)
+ -->
 <h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Kunal Kalpande <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
